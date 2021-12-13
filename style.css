@@ -29,3 +29,9 @@
     margin: 50px 0;
     margin: 0 auto;
 }
+.show{
+    display: flex;
+}
+.hide{
+    display: none;
+}
