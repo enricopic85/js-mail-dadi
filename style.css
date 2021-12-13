@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.punteggioUser,.punteggioPc{
+    text-align: center;
+}
+.flex{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 30px;
+}
+#titolo{
+    text-align: center;
+}
+#button-box {
+    width: 200px;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    background-color: teal;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 50px 0;
+    margin: 0 auto;
+}
